@@ -10,7 +10,7 @@ This end-to-end data analytics project explores used car sales trends using a da
 |------|-------------|
 | `CAR DETAILS FROM CAR DEKHO.csv` | Raw dataset containing car listings (name, year, selling price, km driven, fuel type, seller type, etc.) |
 | `project_queries.sql` | SQL queries used for data analysis, aggregation, and transformation |
-| `Car Insights.pbix` | Power BI dashboard providing visual insights |
+| `Car Sales.pbix` | Power BI dashboard providing visual insights |
 | `README.md` | Project summary and documentation (this file) |
 
 ---
