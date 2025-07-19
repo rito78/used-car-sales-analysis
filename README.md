@@ -62,7 +62,7 @@ This end-to-end data analytics project explores used car sales trends using a da
 ## 📌 About the Dataset
 
 - Source: Kaggle / CarDekho 
-- Size: ~8,000 rows
+- Size: ~5,000 rows
 - Fields include: car name, year, price, km driven, fuel, seller type, transmission, ownership
 
 
